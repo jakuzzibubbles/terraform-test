@@ -42,4 +42,3 @@ Terraform tracks your resources in a state file (`terraform.tfstate`). To update
 ```bash
 terraform destroy
 ```
-```
